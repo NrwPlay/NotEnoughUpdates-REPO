@@ -30,6 +30,10 @@
   "internalname": "PRISMARINE_SINKER",
   "clickcommand": "viewrecipe",
   "modver": "",
-  "crafttext": "",
-  "infoType": ""
+  "crafttext": "Requires: Prismarine Shard IV",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Sinker",
+    "https://wiki.hypixel.net/Prismarine_Sinker"
+  ]
 }

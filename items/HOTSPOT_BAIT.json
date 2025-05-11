@@ -21,11 +21,16 @@
     "B3": "",
     "C1": "",
     "C2": "",
-    "C3": ""
+    "C3": "",
+    "count": 32
   },
   "internalname": "HOTSPOT_BAIT",
   "clickcommand": "viewrecipe",
   "modver": "",
   "crafttext": "",
-  "infoType": ""
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Hotspot_Bait",
+    "https://wiki.hypixel.net/Hotspot_Bait"
+  ]
 }
